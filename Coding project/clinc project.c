@@ -4,8 +4,7 @@ int main()
 {
 
 printf("Hello project");
-jjhjhjhjhjhjhj
-jkjkjkjkjkj
+printf("jkjkjkjlkjlk");
 
 }
 
